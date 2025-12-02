@@ -6,6 +6,8 @@
 
 Cabe destacar que generé un apk para cada uno de los ejercicios, de forma que se puedan probar más simple.
 
+---
+
 ### Ejercicios
 
 1. **Crear una aplicación en Unity que muestre en la UI los valores de todos los sensores disponibles en tu móvil. Incluir en el Readme una medida de los valores en el laboratorio y otra en el jardin de la ESIT.**
